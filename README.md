@@ -19,7 +19,7 @@ RecipeSnap is an AI-powered cooking assistant that recommends delicious recipes 
 
 1. Clone this repository
    ```
-   git clone https://github.com/nikith38/RecipeSnap-
+   git clone https://github.com/lokeshpanthangi/RecipeSnap-t4.git
    cd recipe-snap
    ```
 
@@ -92,4 +92,4 @@ recipe-snap/
 
 ## License
 
-MIT 
+MIT
